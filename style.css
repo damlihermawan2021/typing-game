@@ -1,0 +1,20 @@
+/* inside style.css */
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.fixed-h1 {
+    width: 235px;
+    background-color: black;
+    color: white;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.error {
+    background-color: lightcoral;
+    border: red;
+}
